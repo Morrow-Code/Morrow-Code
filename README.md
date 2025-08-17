@@ -16,7 +16,7 @@ Von **Skript-Lösungen** über **API-Integrationen** bis hin zu **individuellen 
 
 ## 📬 Kontakt
 - ✉️ `info@morrowcode.com`  
-- 🌐 [www.morrowcode.com](https://morrowcode.com) *(sobald Website live ist)*  
+- 🌐 [www.morrowcode.com](https://morrowcode.com) *(Not Online)*  
 - 🐙 GitHub: [Morrow-Code](https://github.com/Morrow-Code)
 
 ---
