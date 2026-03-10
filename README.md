@@ -10,7 +10,7 @@ Ich beschäftige mich mit Cyber Security und Automatisierung, um Prozesse sicher
 ## Prinzipien
 
 * Klarer Code schlägt cleveren Code  
-* Weniger ist mehr – besonders bei Infrastruktur  
+* Weniger ist mehr
 * Automatisierung muss nachvollziehbar sein  
 * Sicherheit ist kein Add‑on  
 * Tools sollen helfen, nicht nerven  
@@ -25,8 +25,6 @@ Dort dokumentiere ich, was ich baue, warum ich es baue und wie man es nutzen kan
 
 ## Kontakt
 
-Wenn du an Automatisierung interessiert bist oder einfach nur Austausch möchtest – schreib mir über die Website.
+Wenn du an Automatisierung interessiert bist oder einfach nur Austausch möchtest. Schreib mir über die Website.
 
 ---
-
-Falls du noch weitere Anpassungen möchtest, helfe ich dir gern!
