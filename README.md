@@ -17,11 +17,9 @@ Ich beschäftige mich mit Cyber Security und Automatisierung, um Prozesse sicher
 
 ## Projekte & Website
 
-Aktuelle Projekte, Experimente und Tools findest du auf:
+Aktuelle Projekte, Experimente und Tools findest du hier auf Github, besuch aber trotzdem gerne mal meine Website: 
 
 **[morrowcode.com](https://morrowcode.com)**
-
-Dort dokumentiere ich, was ich baue, warum ich es baue und wie man es nutzen kann.
 
 ## Kontakt
 
