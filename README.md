@@ -1,53 +1,32 @@
-<h1 align="center">🐙 Morrow<span style="color:#FF6F61">{</span><span style="color:#00E0FF">Code</span><span style="color:#FF6F61">}</span></h1>
-<h3 align="center">⚡ Automation Consulting & Development</h3>
+## Was ich mache
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Automation-%23FF6F61?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Built%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API%20Integrations-00E0FF?style=for-the-badge&logo=plug&logoColor=white"/>
-</p>
+Ich beschäftige mich mit Cyber Security und Automatisierung, um Prozesse sicherer und effizienter zu gestalten. Mein Fokus liegt darauf, repetitive Aufgaben zu vereinfachen und nachhaltige Workflows zu entwickeln, die den Betrieb unterstützen und entlasten.
 
----
+* **Self‑Hosting & Infrastruktur** – stabile Setups mit Docker, Reverse Proxies, sicheren Webhooks  
+* **Automatisierung** – Workflows, die Prozesse vereinfachen und Zeit sparen  
+* **APIs & Bots** – kleine Tools, die mitdenken und sich integrieren lassen  
+* **DevOps‑Vibes** – modular, transparent, produktionsbereit  
 
-### 💡 About
+## Prinzipien
 
-**MorrowCode** helps businesses make their processes more efficient and smarter through modern automation.  
-From script-based solutions and API integrations to fully customized workflows –  
-we bring **clarity**, **speed**, and **structure** to repetitive tasks.
+* Klarer Code schlägt cleveren Code  
+* Weniger ist mehr – besonders bei Infrastruktur  
+* Automatisierung muss nachvollziehbar sein  
+* Sicherheit ist kein Add‑on  
+* Tools sollen helfen, nicht nerven  
 
----
+## Projekte & Website
 
-### ⚡ Tomorrow Code Solutions
+Aktuelle Projekte, Experimente und Tools findest du auf:
 
-#### 🚀 Services
-- 🧠 **Process Automation** → Automate data queries, reporting, and workflows  
-- 🔗 **API Integration** → Connect tools like Slack, Jira, email & cloud platforms  
-- 💻 **Custom Scripts** → Tailored solutions in Python, Bash, or PowerShell  
-- 🧭 **Consulting** → Strategy, architecture & sustainable efficiency improvement  
+**[morrowcode.com](https://morrowcode.com)**
 
----
+Dort dokumentiere ich, was ich baue, warum ich es baue und wie man es nutzen kann.
 
-### 🧰 Tech Stack Highlights
+## Kontakt
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="32" title="Python"/>
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="32" title="GitHub Actions"/>
-  <img src="https://cdn.simpleicons.org/slack/4A154B" width="32" title="Slack"/>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="32" title="Jira"/>
-  <img src="https://cdn.simpleicons.org/nginx/009639" width="32" title="NGINX"/>
-</p>
+Wenn du an Automatisierung interessiert bist oder einfach nur Austausch möchtest – schreib mir über die Website.
 
 ---
 
-### 📬 Contact
-
-> ✉️ **Email:** [info@morrowcode.com](mailto:info@morrowcode.com)  
-> 🌐 **Website:** www.morrowcode.com *(coming soon)*  
-> 🐙 **GitHub:** [Morrow-Code](https://github.com/Morrow-Code)
-
----
-
-<h3 align="center">⚡ Let’s automate the future together!</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MorrowCode-Automation%20Experts-%23FF6F61?style=for-the-badge&logo=zap&logoColor=white"/>
-</p>
+Falls du noch weitere Anpassungen möchtest, helfe ich dir gern!
